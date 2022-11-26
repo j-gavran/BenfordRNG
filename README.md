@@ -9,3 +9,5 @@ ipd. Številske podatke moraš verjetno najprej transformirati, da dobiš bolj e
 porazdelitev. Namig: fizikalne meritve imajo običajno normalno porazdeljen šum. Če se
 podatki raztezajo čez več velikostnih redov, Benfordov zakon trdi, da je običajno enakomerno
 porazdeljen logaritem vrednosti oz. vsaj njegov neceli del.
+
+[Link](https://www.kaggle.com/datasets/thunderz/a-month-of-askreddit) do podatkov zbranih pri tej nalogi.
