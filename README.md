@@ -1,6 +1,6 @@
 # Benford random number generator
 
-### The idea:
+### The idea
 Using concrete data as a source of random numbers:
 - **physical measurements**
   - physics constants
